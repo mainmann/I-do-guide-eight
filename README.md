@@ -80,9 +80,6 @@ We welcome contributions from certified individuals and organizations:
 * Review and validate existing content
 * Partner for awareness and outreach
 
-**Email:** [ido-guide@yourdomain.com](mailto:ido-guide@yourdomain.com)
-**Form:** (Add collaboration link here)
-
 ---
 
 ## 💡 Future Scope
@@ -102,13 +99,13 @@ We welcome contributions from certified individuals and organizations:
 
 ---
 
-## 📌 Contribution Guidelines
+## 📌 Contribution Guidelines(developers)
 
 1. Fork the repository
 2. Create a new branch
 3. Make your changes
 4. Submit a pull request
-
+5. just open a pull request on this branch with changes (for Public)
 ---
 
 ## 📜 License
